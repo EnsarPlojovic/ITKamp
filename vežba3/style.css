@@ -1,0 +1,27 @@
+.body {
+    margin: 0;
+    
+}
+.gornjiDeo {
+    width: 97%;
+    height: 30vh;
+    background-color: gray;
+}
+.leviDeo {
+    width: 50%;
+    height: 100%;
+    background-color: green;
+}
+.desniDeo {
+    width:49%;
+    height: 100%;
+    background-color: purple;
+}
+.donjiDeo {
+    display: block;
+}
+.card {
+    width: 20%;
+    height: 300px;
+    background-color: red;
+}

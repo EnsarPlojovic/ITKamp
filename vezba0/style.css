@@ -1,0 +1,30 @@
+body {
+    color:aqua;
+}
+title {
+    color:blueviolet
+}
+h1 {
+    color:darkgreen;font-size:30px;text-align: center;
+}
+p {
+color:black;font-size: 15px;
+}
+div{
+    border: 1px solid black;
+    width: 350px;
+    height: 450px;
+    border-radius: 18px;
+    padding: 15px;
+}
+h1{
+    margin-bottom: 50px;
+
+}
+img{
+    border-radius: 18px;
+    width: 290;
+    height: 200px;
+    margin-bottom: 20px;
+}
+    
