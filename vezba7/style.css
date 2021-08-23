@@ -1,14 +1,10 @@
-.container {
-}
+
 div {
     display: inline-block;
     margin: 30px;
 }
 .leftPart {
     display: inline-block;
-}
-.rightPart {
-    
 }
 ul {
     list-style-type: none;
